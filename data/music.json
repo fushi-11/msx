@@ -1,0 +1,21 @@
+{
+  "type": "list",
+  "version": "1.0",
+  "title": "My Music",
+  "items": [
+    {
+      "title": "Song One",
+      "description": "Sample track",
+      "stream": {
+        "url": "https://example.com/song1.mp3"
+      }
+    },
+    {
+      "title": "Song Two",
+      "description": "Another sample track",
+      "stream": {
+        "url": "https://example.com/song2.mp3"
+      }
+    }
+  ]
+}
