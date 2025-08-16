@@ -1,0 +1,24 @@
+{
+  "type": "menu",
+  "version": "1.0",
+  "title": "🎬 My Media Station",
+  "items": [
+    {
+      "title": "📺 Movies",
+      "target": "https://fushi-11.github.io/msx/data/movies.json"
+    },
+    {
+      "title": "🎵 Music",
+      "target": "https://fushi-11.github.io/msx/data/music.json"
+    },
+    {
+      "title": "⭐ Favorites",
+      "target": "https://fushi-11.github.io/msx/data/favorites.json"
+    },
+    {
+      "title": "🌐 Visit Website",
+      "target": "https://example.com",
+      "targetType": "web"
+    }
+  ]
+}
