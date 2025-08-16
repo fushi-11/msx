@@ -1,0 +1,25 @@
+{
+  "type": "list",
+  "version": "1.0",
+  "title": "My Movies",
+  "items": [
+    {
+      "title": "Inception (2010)",
+      "description": "Sci-fi thriller directed by Christopher Nolan",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Inception_ver3.jpg",
+      "stream": {
+        "url": "https://example.com/inception.mp4",
+        "quality": "HD"
+      }
+    },
+    {
+      "title": "The Matrix (1999)",
+      "description": "Cyberpunk action classic",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+      "stream": {
+        "url": "https://example.com/matrix.mp4",
+        "quality": "HD"
+      }
+    }
+  ]
+}
