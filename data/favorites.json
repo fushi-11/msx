@@ -1,0 +1,14 @@
+{
+  "type": "list",
+  "version": "1.0",
+  "title": "My Favorites",
+  "items": [
+    {
+      "title": "Favorite Video",
+      "description": "Example favorite entry",
+      "stream": {
+        "url": "https://example.com/favorite.mp4"
+      }
+    }
+  ]
+}
